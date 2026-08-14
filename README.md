@@ -79,6 +79,8 @@ A utilização do NotebookLM exigiu iterações estratégicas para garantir resp
                                      
  ┌───────────────────────────────────┼───────────────────────────────────┐
  ▼                                   ▼                                   ▼
+
+ 
 [Captura Documental]             [Biometria Facial]                 [Análise de Vínculos]
 
 OCR dos dados                  - Face Match vs. Doc               - Checagem em Bureaus
