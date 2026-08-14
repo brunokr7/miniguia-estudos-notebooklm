@@ -8,7 +8,6 @@
 
 ---
 
-## 🎯 1. Contexto e Objetivos
 
 ### 📌 Contexto
 Com o avanço dos serviços financeiros digitais e plataformas transacionais, os vetores de ataque tornaram-se cada vez mais sofisticados — desde manipulação e falsificação documental até invasão de contas (*Account Takeover - ATO*) e ataques de injeção de imagens/biometria. 
@@ -23,7 +22,6 @@ Este projeto explora o **Google NotebookLM** como uma ferramenta de aprendizagem
 
 ---
 
-## 📚 2. Curadoria de Fontes
 
 Para alimentar o caderno no NotebookLM, foram curadas 4 fontes abertas de referência técnica, acadêmica e setorial:
 
@@ -34,9 +32,6 @@ Para alimentar o caderno no NotebookLM, foram curadas 4 fontes abertas de refer�
 | 3 | *Framework de Detecção de Fraudes e Gestão de Risco em Plataformas Digitais* | Open Source Security / OWASP | Web / Docs | Vetores de ataque, Account Takeover (ATO) e mitigação |
 | 4 | *Biometria Facial e Ataques de Apresentação (Presentation Attack Detection - PAD)* | Padrão ISO/IEC 30107 / Artigos | Paper Técnico | Prova de vida (Liveness ativo e passivo), spoofing e deepfakes |
 
----
-
-## ⚙️ 3. Engenharia de Prompts & "Cicatrizes" (Troubleshooting)
 
 A utilização do NotebookLM exigiu iterações estratégicas para garantir respostas que refletissem o rigor de uma mesa de análise de risco e perícia documental.
 
@@ -72,11 +67,7 @@ A utilização do NotebookLM exigiu iterações estratégicas para garantir resp
 
 ## 📖 4. Miniguia de Estudo (Entrega Consolidada)
 
-### 📌 Resumo Estruturado do Tema
-
                 ESTEIRA DE PREVENÇÃO A FRAUDES NO ONBOARDING
-                                     │
-                                     
  ┌───────────────────────────────────┼───────────────────────────────────┐
  ▼                                   ▼                                   ▼
 [Captura Documental]             [Biometria Facial]                 [Análise de Vínculos]
