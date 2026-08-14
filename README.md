@@ -1,5 +1,4 @@
-# miniguia-estudos-notebooklm
-projeto notebooklm
+
 
 # 🛡️ Caderno Temático NotebookLM: Prevenção a Fraudes Digitais e Análise de Risco
 
