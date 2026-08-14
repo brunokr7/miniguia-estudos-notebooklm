@@ -76,6 +76,7 @@ A utilização do NotebookLM exigiu iterações estratégicas para garantir resp
 
                 ESTEIRA DE PREVENÇÃO A FRAUDES NO ONBOARDING
                                      │
+                                     
  ┌───────────────────────────────────┼───────────────────────────────────┐
  ▼                                   ▼                                   ▼
 [Captura Documental]             [Biometria Facial]                 [Análise de Vínculos]
@@ -91,7 +92,7 @@ Consistência de segurança      - Detecção de Telas/Deepfake       - Validaç
 ┌──────────────────┼──────────────────┐
 ▼                  ▼                  ▼
 [Aprovação]       [Mesa Manual]        [Recusa]
-Score Baixo       Score Médio /       Score Alto /
+Score Baixo       Score Médio          Score Alto
 Sem anomalias     Incongruência       Fraude Crítica
 
 
